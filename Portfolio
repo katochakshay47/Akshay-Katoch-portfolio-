@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+ <meta charset="UTF-8" />
+ <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+ <title>Akshay Katoch | Medical Billing Portfolio</title>
+
+ <style>
+  body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f4f6f8;
+      color: #333;
+      line-height: 1.6;
+    }
+
+    header {
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      color: #fff;
+      padding: 40px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.3rem;
+    }
+
+    header p {
+      margin-top: 10px;
+      font-size: 1.1rem;
+      opacity: 0.9;
+    }
+
+    section {
+      max-width: 1000px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+
+    h2 {
+      border-left: 5px solid #2c5364;
+      padding-left: 12px;
+      margin-bottom: 20px;
+      color: #2c5364;
+    }
+
+    .card {
+      background: #fff;
+      padding: 22px;
+      border-radius: 10px;
+      margin-bottom: 20px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    .skills {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 15px;
+    }
+
+    .skill {
+      background: #eef3f6;
+      padding: 12px;
+      border-radius: 8px;
+      font-size: 0.95rem;
+      text-align: center;
+      font-weight: 500;
+    }
+
+    .contact p {
+      margin: 8px 0;
+      font-size: 0.95rem;
+    }
+
+    footer {
+      background: #203a43;
+      color: #fff;
+      text-align: center;
+      padding: 18px;
+      font-size: 0.9rem;
+    }
+ </style>
+</head>
+
+<body>
+
+ <header>
+  <h1>Akshay Katoch</h1>
+  <p>Accounts Receivable Executive | US Healthcare Medical Billing</p>
+ </header>
+
+ <section>
+  <h2>About Me</h2>
+  <div class="card">
+   <p>
+    I am an experienced Accounts Receivable professional with hands-on experience in US Healthcare Medical Billing. I specialize in denial management, insurance follow-ups, and revenue cycle management to ensure timely reimbursements and high claim accuracy.
+   </p>
+  </div>
+ </section>
+
+ <section>
+  <h2>Skills</h2>
+  <div class="skills">
+   <div class="skill">AR Follow-up</div>
+   <div class="skill">Denial Management</div>
+   <div class="skill">US Healthcare Claims</div>
+   <div class="skill">Insurance Verification</div>
+   <div class="skill">Revenue Cycle Management</div>
+   <div class="skill">CPT / ICD-10 / HCPCS</div>
+   <div class="skill">EOB Analysis</div>
+   <div class="skill">Appeals & Rebilling</div>
+   <div class="skill">Payment Posting</div>
+   <div class="skill">Medicare, Medicaid & Commercial</div>
+  </div>
+ </section>
+
+ <section>
+  <h2>Work Experience</h2>
+  <div class="card">
+   <h3>Accounts Receivable Executive â Knack Global</h3>
+   <p><strong>Mar 2023 â Nov 2025</strong></p>
+   <ul>
+    <li>Handled end-to-end AR follow-up for US healthcare claims</li>
+    <li>Worked on denial analysis and resolution to maximize collections</li>
+    <li>Performed insurance calls and payer follow-ups</li>
+    <li>Reviewed EOBs and corrected claim errors</li>
+    <li>Worked with Medicare, Medicaid, and commercial payers</li>
+    <li>Maintained productivity and quality benchmarks</li>
+   </ul>
+  </div>
+ </section>
+
+ <section>
+  <h2>Contact</h2>
+  <div class="card contact">
+   <p><strong>Email:</strong> katochakshay47@gmail.com</p>
+   <p><strong>Phone:</strong> 7807703288</p>
+   <p><strong>Location:</strong> India (Open to WFH / Remote)</p>
+  </div>
+ </section>
+
+ <footer>
+  Â© 2025 Akshay Katoch | Medical Billing Portfolio
+ </footer>
+
+</body>
+
+</html>
